@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ac2cc247d7cb86e4297761c9958f5570
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/DemoScene/Script/Door_SceneChange.cs
+  uploadId: 346417

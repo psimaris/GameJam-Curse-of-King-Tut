@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a0dc6739f6065f949910213c0c0a2fda
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/DemoScene/Script/Pyramid/LeverLogic.cs
+  uploadId: 346417

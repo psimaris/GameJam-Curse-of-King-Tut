@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ef3a2f0b30b3e034784ee9b3ba8315d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/DemoScene/Script/Pyramid/PlayerLocation.cs
+  uploadId: 346417

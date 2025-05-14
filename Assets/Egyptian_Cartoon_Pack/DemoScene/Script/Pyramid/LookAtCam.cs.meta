@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 68f57baf5d5d21643b3e92bc4490ca52
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/DemoScene/Script/Pyramid/LookAtCam.cs
+  uploadId: 346417

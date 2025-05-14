@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7c446ff66bb11a14eb6534dea6ca862d
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/DemoScene/Script/GameManager.cs
+  uploadId: 346417

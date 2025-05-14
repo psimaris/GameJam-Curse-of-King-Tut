@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3a0660f2311b3eb4da1d098514f51b50
+timeCreated: 1531603664
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 19292
+  packageName: Egyptian Cartoon Pack (Interior / Exterior)
+  packageVersion: 2
+  assetPath: Assets/Egyptian_Cartoon_Pack/FX/Prefab/Fire_FX.prefab
+  uploadId: 346417
